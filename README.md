@@ -11,14 +11,14 @@ Dự án **Quản lý Khách sạn** là một hệ thống giúp quản lý cá
 - Báo cáo: Thống kê doanh thu, công suất phòng.
 
 ## Công Nghệ Sử Dụng
-- **Ngôn ngữ lập trình**: SQL 
-- **Framework**: SQL Server Management Studio
+- **Ngôn ngữ lập trình**: SQL.
+- **Framework**: SQL Server Management Studio.
 
 ## Hướng Dẫn Cài Đặt
-1. Cài đặt MySQL/PostgreSQL.
-2. Tạo cơ sở dữ liệu và nhập các bảng từ file `database.sql`.
-3. Chạy ứng dụng bằng Python/PHP/Java.
-4. Truy cập giao diện quản lý qua trình duyệt.
+1. Cài đặt SQL Server Management Studio.
+2. Lấy cơ sở dữ liệu và các bảng từ file `HotelManagerDataBase.sql`.
+3. Chạy ứng dụng bằng SQL.
+4. Truy cập giao diện quản lý qua file `HotelManager.sql`.
 
 ## Cấu Trúc Cơ Sở Dữ Liệu
 ```
